@@ -1,0 +1,8 @@
+[package]
+name = "rust_bf"
+version = "0.1.0"
+authors = ["Bernard Desmyter <bernarddesmyter@gmail.com>"]
+edition = "2021"
+
+[dependencies.nom]
+version = "^6.2.0"
